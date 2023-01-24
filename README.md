@@ -15,11 +15,9 @@
 
 ### :cherries: 프로젝트 소개
 개발하는 커비는 커비처럼 다양한 정보 흡수하겠다는 의미로,
-개발자들의 다양한 정보 공유를 위한 게시판입니다.
+개발자들의 다양한 정보 공유를 위한 게시판입니다.  
 
-
-
-![](../header.png)
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e23aa703-ceb2-4a20-ae73-25f86bffbbeb/semiproject.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230124T125901Z&X-Amz-Expires=86400&X-Amz-Signature=1d2b16820abd6b5f2845b8491617c5d18efe879c6ec4f87d64c8aea2cc2f8b1f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22semiproject.png%22&x-id=GetObject" width="800"/>
 
 ### :cherries: 프로젝트 주요 기능
 - 모바일과 아이패드 환경에서 이용 가능한 미디어 쿼리 적용
@@ -30,6 +28,9 @@
 - 원활한 게시글 관리를 위한 게시판마다 게시글의 수 조회와 최신 글 5개 조회 가능
 - Admin 편리하게 회원과 게시판, 게시글, 댓글, 배너 등을 관리
 - Admin 페이지에서 광고 수신 동의 회원을 위한 광고메일 발송
+
+### :stars: ERD
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24b28de9-0664-4396-898c-60761cf790c4/ERD.PNG_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230124T125504Z&X-Amz-Expires=86400&X-Amz-Signature=67ed14eeea557eb09c57bc1842c67f3af58ad85b1b078cc76067ebdd32001371&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22ERD.PNG%2520%281%29.png%22&x-id=GetObject" width="600"/>
 
 ### :cherries: 팀원
 - [:rabbit2:신은지](https://github.com/eunjishinrabbit)
