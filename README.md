@@ -17,7 +17,7 @@
 개발하는 커비는 커비처럼 다양한 정보 흡수하겠다는 의미로,
 개발자들의 다양한 정보 공유를 위한 게시판입니다.  
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e23aa703-ceb2-4a20-ae73-25f86bffbbeb/semiproject.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230124T125901Z&X-Amz-Expires=86400&X-Amz-Signature=1d2b16820abd6b5f2845b8491617c5d18efe879c6ec4f87d64c8aea2cc2f8b1f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22semiproject.png%22&x-id=GetObject" width="800"/>
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fadbc7dd-0225-4b49-aef6-cf833c99e150/semiproject.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230124T130051Z&X-Amz-Expires=86400&X-Amz-Signature=1d34e071406434cfba6d78734b9be7534d826d8a46d91c0f02e8e5e748928854&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22semiproject.png%22&x-id=GetObject" width="800"/>
 
 ### :cherries: 프로젝트 주요 기능
 - 모바일과 아이패드 환경에서 이용 가능한 미디어 쿼리 적용
