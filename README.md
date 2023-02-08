@@ -30,7 +30,7 @@
 - Admin 페이지에서 광고 수신 동의 회원을 위한 광고메일 발송
 
 ### :cherries: ERD
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24b28de9-0664-4396-898c-60761cf790c4/ERD.PNG_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230124T125504Z&X-Amz-Expires=86400&X-Amz-Signature=67ed14eeea557eb09c57bc1842c67f3af58ad85b1b078cc76067ebdd32001371&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22ERD.PNG%2520%281%29.png%22&x-id=GetObject" width="600"/>
+![ERD PNG](https://user-images.githubusercontent.com/94952434/217445680-a941ab18-9eb2-4728-bb8f-5aa0cb4852d4.png)
 
 ### :cherries: 팀원
 - [:rabbit2:신은지](https://github.com/eunjishinrabbit)
