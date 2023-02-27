@@ -17,7 +17,8 @@
 개발하는 커비는 커비처럼 다양한 정보 흡수하겠다는 의미로,
 개발자들의 다양한 정보 공유를 위한 게시판입니다.  
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fadbc7dd-0225-4b49-aef6-cf833c99e150/semiproject.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230124T130051Z&X-Amz-Expires=86400&X-Amz-Signature=1d34e071406434cfba6d78734b9be7534d826d8a46d91c0f02e8e5e748928854&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22semiproject.png%22&x-id=GetObject" width="800"/>
+![68747470733a2f2f73332e75732d776573742d322e616d617a6f6e6177732e636f6d2f7365637572652e6e6f74696f6e2d7374617469632e636f6d2f66616462633764642d303232352d346234392d616566362d6366383333633939653135302f73656d6970726f6a656](https://user-images.githubusercontent.com/94952434/221485722-efa5f61b-c146-497d-a7db-ceacdc083436.png)
+
 
 ### :cherries: 프로젝트 주요 기능
 - 모바일과 아이패드 환경에서 이용 가능한 미디어 쿼리 적용
